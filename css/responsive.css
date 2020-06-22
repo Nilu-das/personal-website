@@ -1,0 +1,119 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px) {
+    #header-part {
+        padding: 30px 0 0 0;
+    }
+    .menu-content {
+        padding: 114px 0;
+        position: relative;
+    }
+    .menu-content h2 {
+        font-size: 60px;
+    }
+    .menu-content::before {
+        width: 87%;
+        top: 26%;
+        left: 6%;
+    }
+    .menu-content::after {
+        width: 87%;
+        top: 51%;
+        left: 6%;
+    }
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #header-part {
+        padding: 30px 0 0 0;
+    }
+    .menu-content h2 {
+        font-size: 64px;
+    }
+    .menu-content {
+        padding: 112px 0;
+        position: relative;
+    }
+    .menu-content::before {
+        width: 98%;
+        top: 26%;
+        left: 0%;
+    }
+    .menu-content::after {
+        width: 98%;
+        top: 52%;
+        left: 0%;
+    }
+    .menu-content p {
+        font-size: 24px;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #header-part {
+        padding: 35px 0 0 0;
+    }
+    .menu-content {
+        padding: 111px 0;
+        position: relative;
+    }
+    .menu-content::before {
+        width: 75%;
+        top: 24%;
+        left: 12%;
+    }
+    .menu-content::after {
+        width: 75%;
+        top: 52%;
+        left: 12%;
+    }
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .menu ul li a {
+        font-weight: 600;
+        font-size: 18px;
+    }
+    #header-part {
+        padding: 40px 0 0 0;
+    }
+    .menu-content {
+        padding: 106px 0;
+        position: relative;
+    }
+    .menu-content h2 {
+        font-size: 62px;
+    }
+    .menu-content::before {
+        width: 53%;
+        top: 25%;
+        left: 23%;
+    }
+    .menu-content::after {
+        width: 53%;
+        top: 52%;
+        left: 23%;
+    }
+}
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {
+    .menu-content {
+        padding: 106px 0;
+        position: relative;
+    }
+    .menu-content::before {
+        top: 25%;
+    }
+}
