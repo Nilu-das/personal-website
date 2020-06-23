@@ -139,6 +139,14 @@ ul {
     text-transform: capitalize;
     background-color: #FE2B4B;
     padding: 15px 70px;
+    font-weight: bold;
+}
+
+.info a:hover {
+    color: #FE2B4B;
+    background-color: transparent;
+    border: 2px solid #FE2B4B;
+    text-decoration: none;
 }
 
 
