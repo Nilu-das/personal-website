@@ -21,6 +21,80 @@
         top: 51%;
         left: 6%;
     }
+    .left-content {
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    .left-content h2 {
+        padding-bottom: 15px;
+    }
+    .right-content {
+        text-align: center;
+    }
+    .right-content h2 {
+        padding-bottom: 15px;
+    }
+    .form-part {
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    .work-comon {
+        margin-bottom: 25px;
+    }
+    .protfolio-image {
+        margin-bottom: 25px;
+    }
+    #testimonial-area {
+        padding: 50px 0px 90px 0;
+    }
+    .content {
+        text-align: center;
+    }
+    .content p {
+        padding: 10px 0;
+    }
+    .content h2 {
+        padding-top: 0px;
+    }
+    .carousel-indicators {
+        bottom: -10%;
+    }
+    .my-image {
+        text-align: center;
+    }
+    .my-image img {
+        width: 60%;
+    }
+    .info {
+        padding: 40px 0;
+        text-align: center;
+    }
+    .info .second {
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+    .info h4 {
+        padding-bottom: 15px;
+    }
+    #working-part {
+        padding: 50px 0;
+    }
+    #contact-area {
+        padding: 38px 0px;
+    }
+    #protfollio-area {
+        padding: 30px 0;
+    }
+    .pad {
+        padding: 0 !important;
+    }
+    .address {
+        text-align: center;
+        padding: 25px 70px
+    }
+    .address h2 {
+        padding-bottom: 15px;
+    }
 }
 
 
@@ -50,6 +124,86 @@
     .menu-content p {
         font-size: 24px;
     }
+    .left-content {
+        margin-bottom: 25px;
+        text-align: center;
+    }
+    .right-content {
+        text-align: center;
+    }
+    #ecxparience-area {
+        padding: 50px 0;
+    }
+    .form-part {
+        margin-bottom: 25px;
+    }
+    .work-comon {
+        margin-bottom: 25px;
+    }
+    .protfolio-image {
+        margin-bottom: 25px;
+    }
+    #testimonial-area {
+        padding: 50px 0px 90px 0;
+    }
+    .content {
+        text-align: center;
+    }
+    .content p {
+        padding: 10px 0;
+    }
+    .content h2 {
+        padding-top: 0px;
+    }
+    .carousel-indicators {
+        bottom: -10%;
+    }
+    .my-image {
+        text-align: center;
+    }
+    .my-image img {
+        width: 60%;
+    }
+    .info {
+        padding: 40px 0;
+        text-align: center;
+    }
+    .info .second {
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+    .info h4 {
+        padding-bottom: 15px;
+    }
+    #working-part {
+        padding: 50px 0;
+    }
+    .address h2 {
+        padding-bottom: 20px;
+    }
+    .address {
+        padding: 35px 80px;
+        text-align: center;
+    }
+    .form-part h2 {
+        padding-bottom: 30px;
+        text-align: center;
+    }
+    .form-part {
+        padding: 30px 40px;
+    }
+    #contact-area {
+        padding: 40px 0px;
+    }
+    #protfollio-area {
+        padding: 40px 0;
+    }
+    .pad {
+        padding: 0 !important;
+    }
+    .working-title p {
+        padding-top: 3px;
+    }
 }
 
 
@@ -72,6 +226,42 @@
         width: 75%;
         top: 52%;
         left: 12%;
+    }
+    .address {
+        padding: 49px 40px;
+    }
+    .work-comon {
+        padding: 45px 0;
+    }
+    .icon-content h4 {
+        padding-top: 15px;
+    }
+    .address h2 {
+        padding-bottom: 24px;
+    }
+    .working-title p {
+        padding-top: 4px;
+    }
+    #ecxparience-area {
+        padding: 50px 0;
+    }
+    #protfollio-area {
+        padding: 50px 0;
+    }
+    #contact-area {
+        padding: 50px 0px;
+    }
+    .content {
+        text-align: center;
+    }
+    .content p {
+        padding: 20px 0;
+    }
+    .content h2 {
+        padding-top: 0;
+    }
+    .carousel-indicators {
+        bottom: -9%;
     }
 }
 
@@ -103,6 +293,9 @@
         top: 52%;
         left: 23%;
     }
+    .address h2 {
+        padding-bottom: 24px;
+    }
 }
 
 
@@ -115,5 +308,8 @@
     }
     .menu-content::before {
         top: 25%;
+    }
+    .address {
+        margin-bottom: 10px;
     }
 }
